@@ -7,12 +7,11 @@ package za.ac.cput.calculate1;
 
 /**
  *
- * @author Sonwabiso Moni
- * stdNum 219275041
+ * @author Zenzile
  */
 public class Addittion {
-    public static double sum(double number1,double number2){
-     return number1+number2;   
+    public static void main(String[] args) {
+    int x = 100 + 50;
+    System.out.println(x);
     }
-    
 }
